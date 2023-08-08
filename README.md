@@ -34,6 +34,7 @@ You can connect with me via email at [milkywaygalaxy528@proton.me](mailto:milkyw
     <img src="https://truffleframework.com/img/truffle-logo-dark.svg" alt="Truffle" width="40" height="40">
     <img src="https://www.trufflesuite.com/img/ganache-logo-dark.svg" alt="Ganache" width="40" height="40">
     <img src="https://imgs.search.brave.com/LPe22G3WouWUTLupx2-kGiS0QjJi9dI3S2cZoJiSmgo/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9uZXh0LWpzLnN2/Zw.svg" alt="nextJs"             width="40" height="40">
+    <img src="https://imgs.search.brave.com/0hmGwhWguxn7JYe4T0HDQNADhp6BsjB0RGF5nvObiN0/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMtZ2xvYmFsLndl/YnNpdGUtZmlsZXMu/Y29tLzYzNjRlNjU2/NTZhYjEwN2U0NjUz/MjVkMi82MzdhZWQ2/NzUxNDM4YjU4ZGY0/ZjIzZGJfdnNPSFNu/RkNXRmQ3RjRGS0Qz/V3lxVnM1T0wxYmJu/bS1PWUk3SHhqRU5D/OC5wbmc" alt="foundry" width="40" height="40">
     <img src="https://imgs.search.brave.com/3nHwnOCZTbGcWEL8yXutryII_ERLFqUZthceZfqWov8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/c29sb2Rldi5jb20v/ZmlsZS8xMzQ2NmUy/MS1kZDJjLTExZWMt/YjlhZC0wZWFlZjM3/NTlmNWYvSGFyZGhh/dC1Mb2dvLUljb24u/cG5n" alt="Hardhat" width="40" height="40">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40">
