@@ -1,4 +1,4 @@
-[![MasterHead]()]
+[![MasterHead](https://imgs.search.brave.com/rmPpH2eCehsr-26FtPz4ey_DD9eJW-s2fY1i12u4r1I/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9rbm93/bGVkZ2UuaW5zZWFk/LmVkdS9zaXRlcy9r/bm93bGVkZ2UvZmls/ZXMvc3R5bGVzLzEy/ODB4NTAwL3B1Ymxp/Yy9pbWFnZXMvMjAx/OS8wNy90aGVfc3Rh/dGVfb2ZfdGhlX2Js/b2NrY2hhaW5fcmV2/b2x1dGlvbi5qcGc_/aXRvaz1aUGZPZ0FQ/NA)]
 <h1 align="center">Hi 👋, I'm Oxch </h1>
 <h3 align="center">Web3 Guardian|Blockchain researcher armed with economic insights under the moonlight's watchful gaze. Safeguarding the ecosystem with unwavering dedication</h3>
 <img align="right" alt="Coding" width="400"src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
