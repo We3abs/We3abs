@@ -14,7 +14,7 @@ Passionate about blockchain technology, I'm on a journey to become an auditor, e
 I'm a blockchain researcher and advocate with a focus on empowering the Web3 ecosystem through economic insights and technological innovation. My dedication to the world of blockchain fuels my pursuit of becoming an auditor, harnessing the power of code to drive positive change.
 
 - 🌱 Currently exploring: **Cairo2**
-- 💬 Let's discuss: **Web3 scaling solutions**
+- 💬 Let's discuss: **Smart contracts**
 ---
 
 ## Connect with Me
