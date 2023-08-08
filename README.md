@@ -1,7 +1,7 @@
 [![MasterHead](https://imgs.search.brave.com/vogsNCAuAd2E6bDcHs5SiSELZQoyTPFVlR5mRR64QEw/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/d2FsbHBhcGVyc2Fm/YXJpLmNvbS83MS80/MS9SNXpUdkEuanBn)]
 <h1 align="center">Hi 👋, I'm Oxch </h1>
 <h3 align="center">Web3 Guardian|Blockchain researcher armed with economic insights under the moonlight's watchful gaze. Safeguarding the ecosystem with unwavering dedication</h3>
-<img align="right"  alt="Coding"width="400"src="https://imgs.search.brave.com/aiex6feRk5QcOxZ1wsv9-39U_rSp-rzrIvqhFvNCh_g/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naXRo/dWIuY29tL21heWFu/a2NoYXVkaGFyeTI2/L0Nvb2wtUmVhZG1l/LWlkZWFzL3Jhdy9t/YXN0ZXIvZGF0YS9u/aWdodCUyMGNvZGUu/Z2lm.gif">
+<img align="right"  alt="Coding"width="400"src="https://imgs.search.brave.com/T2AUP3m8TCiZy9S-eCA0v-zm7GUTciY7sirO7gWx8Nk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9leHRl/cm5hbC1wcmV2aWV3/LnJlZGQuaXQvLVJs/UFBaN2hjeFd1NENv/YVdld0ZwNER1Wkt5/ajRGdFN6YlR1MVlK/M20wZy5qcGc_d2lk/dGg9NjQwJmNyb3A9/c21hcnQmYXV0bz13/ZWJwJnM9ZjlhNmQx/NDJhNDhhYjcyMzJk/NmZlMDA0YWVjZWYx/YmRiMDljMjlmMw">
 
 
 - 🌱 I’m currently learning **Solidity + Cairo**
