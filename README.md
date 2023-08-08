@@ -38,10 +38,8 @@ You can connect with me via email at [milkywaygalaxy528@proton.me](mailto:milkyw
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40">
     <img src="https://truffleframework.com/img/truffle-logo-dark.svg" alt="Truffle" width="40" height="40">
     <img src="https://www.trufflesuite.com/img/ganache-logo-dark.svg" alt="Ganache" width="40" height="40">
-    <!-- Replace with valid Foundry and Hardhat logos -->
-    <img src="[https://placeholder.com](https://imgs.search.brave.com/WJhZoH2Wmg708EL7di-jmRqMYZdf3jPnzkq96TE1bXI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9nZXRm/b3VuZHJ5LnNoL2xv/Z28ucG5n)/40x40" alt="Foundry" width="40" height="40">
-    <img src="https://placeholder.com/40x40" alt="Hardhat" width="40" height="40">
-    <!-- Add more icons for languages and tools -->
+    <img src="https://imgs.search.brave.com/LPe22G3WouWUTLupx2-kGiS0QjJi9dI3S2cZoJiSmgo/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9uZXh0LWpzLnN2/Zw.svg" alt="nextJs" width="40" height="40">
+ 
 </p>
 
 <!-- You can add more information about your projects, achievements, or anything else you'd like to showcase -->
