@@ -1,4 +1,4 @@
-[!MasterHead](https://imgs.search.brave.com/-NRq76vLFrCPFp7F2q0E0h0Tk2mP4Ia-WAqBf-heNhE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/dmVjdG9yc3RvY2su/Y29tL2kvcHJldmll/dy0xeC84Ny8yMi9i/bG9ja2NoYWluLWNv/bG9yZnVsLWxpbmUt/YmFubmVyLW1pbmlt/YWwtdmVjdG9yLTE3/NjQ4NzIyLmpwZw)]
+[![MasterHead](https://imgs.search.brave.com/-NRq76vLFrCPFp7F2q0E0h0Tk2mP4Ia-WAqBf-heNhE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/dmVjdG9yc3RvY2su/Y29tL2kvcHJldmll/dy0xeC84Ny8yMi9i/bG9ja2NoYWluLWNv/bG9yZnVsLWxpbmUt/YmFubmVyLW1pbmlt/YWwtdmVjdG9yLTE3/NjQ4NzIyLmpwZw)]
 <h1 align="center">Hi 👋, I'm Oxch </h1>
 <h3 align="center">Web3 Guardian|Blockchain researcher armed with economic insights under the moonlight's watchful gaze. Safeguarding the ecosystem with unwavering dedication</h3>
 <img align="right" alt="Coding" width="400"src="(https://imgs.search.brave.com/edM6Dsy5KHVhljcrvjFgj00mmXObfyOtFISWq5ZbaeI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY29kaW5n/LWh1bWFuLWhlYWQt/MXdyaXV4c3VlNHRp/Z2Viei5naWY.gif)">
