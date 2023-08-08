@@ -29,9 +29,11 @@ You can connect with me via email at [milkywaygalaxy528@proton.me](mailto:milkyw
 
 ## Languages and Tools
 
-![Hardhat](https://hardhat.org/logo.png)
-![Solidity](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png)
-![Foundry](https://foundrydao.com/images/foundry_logo_color.png)
-<!-- Add more icons for languages and tools -->
+<p align="left">
+    <img src="https://hardhat.org/logo.png" alt="Hardhat" width="40" height="40">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png" alt="Solidity" width="40" height="40">
+    <img src="https://foundrydao.com/images/foundry_logo_color.png" alt="Foundry" width="40" height="40">
+    <!-- Add more icons for languages and tools -->
+</p>
 
 <!-- You can add more information about your projects, achievements, or anything else you'd like to showcase -->
