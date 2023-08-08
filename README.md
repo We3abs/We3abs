@@ -1,7 +1,7 @@
-[![MasterHead]()]
+[![MasterHead](https://imgs.search.brave.com/3fkLSEDtwVWh-FeRH3QK1xCt3ZfeNBW9pJs0SdF2uFY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvdGhlLW1h/dHJpeC1zeXN0ZW0t/Y29kaW5nLXdyb3ow/MmN2OTF5cjBoaGEu/Z2lm.gif)]
 <h1 align="center">Hi 👋, I'm Oxch </h1>
 <h3 align="center">Web3 Guardian|Blockchain researcher armed with economic insights under the moonlight's watchful gaze. Safeguarding the ecosystem with unwavering dedication</h3>
-<img align="right" alt="Coding" width="400"src="https://imgs.search.brave.com/edM6Dsy5KHVhljcrvjFgj00mmXObfyOtFISWq5ZbaeI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY29kaW5n/LWh1bWFuLWhlYWQt/MXdyaXV4c3VlNHRp/Z2Viei5naWY.gif">
+<img align="right" alt="Coding" width="400"src="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=we3abs&label=Profile%20views&color=0e75b6&style=flat" alt="we3abs" /> </p>
 
