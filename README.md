@@ -39,7 +39,7 @@ You can connect with me via email at [milkywaygalaxy528@proton.me](mailto:milkyw
     <img src="https://truffleframework.com/img/truffle-logo-dark.svg" alt="Truffle" width="40" height="40">
     <img src="https://www.trufflesuite.com/img/ganache-logo-dark.svg" alt="Ganache" width="40" height="40">
     <!-- Replace with valid Foundry and Hardhat logos -->
-    <img src="https://placeholder.com/40x40" alt="Foundry" width="40" height="40">
+    <img src="[https://placeholder.com](https://imgs.search.brave.com/WJhZoH2Wmg708EL7di-jmRqMYZdf3jPnzkq96TE1bXI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9nZXRm/b3VuZHJ5LnNoL2xv/Z28ucG5n)/40x40" alt="Foundry" width="40" height="40">
     <img src="https://placeholder.com/40x40" alt="Hardhat" width="40" height="40">
     <!-- Add more icons for languages and tools -->
 </p>
