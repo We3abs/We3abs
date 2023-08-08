@@ -14,6 +14,8 @@ I'm passionate about all things blockchain and decentralized technologies. With 
 
 ## Connect with Me
 
+You can connect with me via email at [milkywaygalaxy528@proton.me](mailto:milkywaygalaxy528@proton.me).
+
 <!-- Add your social media links here -->
 
 ## Languages and Tools
