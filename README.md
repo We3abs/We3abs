@@ -3,15 +3,15 @@
 
 # Welcome! 👋 I'm Oxch
 
-**Blockchain Enthusiast | DeFi Advocate**
+**Blockchain Enthusiast | DeFi Advocate | Aspiring Auditor**
 
-Empowering the Web3 ecosystem with economic insights and a passion for decentralized technologies.
+Empowering the Web3 ecosystem with economic insights and a passion for decentralized technologies. I'm dedicated to the world of blockchain and on my path to becoming an auditor, ensuring the security and reliability of smart contracts and decentralized systems.
 
 ---
 
 ## About Me
 
-I'm a blockchain researcher and advocate with a focus on empowering the Web3 ecosystem through economic insights and technological innovation.
+I'm a blockchain researcher and advocate with a focus on empowering the Web3 ecosystem through economic insights and technological innovation. As a dedicated developer and future auditor, I'm driven by the endless possibilities of smart contracts, decentralized applications, and blockchain technology.
 
 - 🌱 Currently exploring: **Solidity, Hardhat, and Cairo Foundry**
 - 💬 Let's discuss: **DeFi, NFTs, DAOs, DEXs, and Smart Contracts**
