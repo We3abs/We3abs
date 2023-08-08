@@ -1,5 +1,5 @@
 <!-- Banner Header -->
-![Banner Header](https://imgs.search.brave.com/vogsNCAuAd2E6bDcHs5SiSELZQoyTPFVlR5mRR64QEw/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/d2FsbHBhcGVyc2Fm/YXJpLmNvbS83MS80/MS9SNXpUdkEuanBn)
+![Banner Header](https://imgs.search.brave.com/pqmcz0UK9-5E5wqPmlV2ES96vOf2cRZKV__gNDlJ9cw/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/d2FsbHBhcGVyc2Fm/YXJpLmNvbS8xNy82/Ny9XMDFhZWIuanBn)
 
 # Welcome! I'm Oxch
 
