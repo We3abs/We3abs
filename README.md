@@ -31,15 +31,14 @@ You can connect with me via email at [milkywaygalaxy528@proton.me](mailto:milkyw
 
 <p align="left">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png" alt="Solidity" width="40" height="40">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40">
     <img src="https://truffleframework.com/img/truffle-logo-dark.svg" alt="Truffle" width="40" height="40">
     <img src="https://www.trufflesuite.com/img/ganache-logo-dark.svg" alt="Ganache" width="40" height="40">
     <img src="https://imgs.search.brave.com/LPe22G3WouWUTLupx2-kGiS0QjJi9dI3S2cZoJiSmgo/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9uZXh0LWpzLnN2/Zw.svg" alt="nextJs"             width="40" height="40">
     <img src="https://imgs.search.brave.com/3nHwnOCZTbGcWEL8yXutryII_ERLFqUZthceZfqWov8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/c29sb2Rldi5jb20v/ZmlsZS8xMzQ2NmUy/MS1kZDJjLTExZWMt/YjlhZC0wZWFlZjM3/NTlmNWYvSGFyZGhh/dC1Mb2dvLUljb24u/cG5n" alt="Hardhat" width="40" height="40">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40">
  
 </p>
 
