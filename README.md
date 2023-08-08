@@ -1,12 +1,12 @@
 [![MasterHead](https://imgs.search.brave.com/vogsNCAuAd2E6bDcHs5SiSELZQoyTPFVlR5mRR64QEw/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/d2FsbHBhcGVyc2Fm/YXJpLmNvbS83MS80/MS9SNXpUdkEuanBn)]
 <h1 align="center">Hi 👋, I'm Oxch </h1>
 <h3 align="center">Web3 Guardian|Blockchain researcher armed with economic insights under the moonlight's watchful gaze. Safeguarding the ecosystem with unwavering dedication</h3>
-<img align="right" alt="Coding" width="500"src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="Coding" width="400"src="https://imgs.search.brave.com/edM6Dsy5KHVhljcrvjFgj00mmXObfyOtFISWq5ZbaeI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY29kaW5n/LWh1bWFuLWhlYWQt/MXdyaXV4c3VlNHRp/Z2Viei5naWY.gif">
 
 
 - 🌱 I’m currently learning **Solidity + Cairo**
 
-- 💬 Ask me about **Defi|Blockchain|NFT|DAO|DEX**
+- 💬 Ask me about **Defi|Blockchain|NFT|DAO|DEX|SMART CONTRACTS**
 
 - 📫 How to reach me **milkywaygalaxy528@proton.me**
 
