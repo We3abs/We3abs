@@ -5,13 +5,13 @@
 
 **Blockchain Enthusiast | DeFi Advocate | Aspiring Auditor**
 
-Empowering the Web3 ecosystem with economic insights and a passion for decentralized technologies. I'm dedicated to the world of blockchain and on my path to becoming an auditor, ensuring the security and reliability of smart contracts and decentralized systems.
+Passionate about blockchain technology, I'm on a journey to become an auditor, ensuring the security and reliability of smart contracts and decentralized systems.
 
 ---
 
 ## About Me
 
-I'm a blockchain researcher and advocate with a focus on empowering the Web3 ecosystem through economic insights and technological innovation. As a dedicated developer and future auditor, I'm driven by the endless possibilities of smart contracts, decentralized applications, and blockchain technology.
+I'm a blockchain researcher and advocate with a focus on empowering the Web3 ecosystem through economic insights and technological innovation. My dedication to the world of blockchain fuels my pursuit of becoming an auditor, harnessing the power of code to drive positive change.
 
 - 🌱 Currently exploring: **Solidity, Hardhat, Truffle, Ganache, Cairo Foundry**
 - 💬 Let's discuss: **DeFi, NFTs, DAOs, DEXs, and Smart Contracts**
@@ -38,8 +38,9 @@ You can connect with me via email at [milkywaygalaxy528@proton.me](mailto:milkyw
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40">
     <img src="https://truffleframework.com/img/truffle-logo-dark.svg" alt="Truffle" width="40" height="40">
     <img src="https://www.trufflesuite.com/img/ganache-logo-dark.svg" alt="Ganache" width="40" height="40">
-    <img src="https://foundrydao.com/images/foundry_logo_color.png" alt="Foundry" width="40" height="40">
-    <img src="https://hardhat.org/logo.png" alt="Hardhat" width="40" height="40">
+    <!-- Replace with valid Foundry and Hardhat logos -->
+    <img src="https://placeholder.com/40x40" alt="Foundry" width="40" height="40">
+    <img src="https://placeholder.com/40x40" alt="Hardhat" width="40" height="40">
     <!-- Add more icons for languages and tools -->
 </p>
 
