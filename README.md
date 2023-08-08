@@ -40,5 +40,9 @@ I'm a blockchain researcher and advocate with a focus on empowering the Web3 eco
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40">
+    <img src="https://imgs.search.brave.com/4C3GZxN3oiIVJ7nK-JJcITOSkPFEV5HGcXAa0OVYfVQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/c29sb2Rldi5jb20v/ZmlsZS85NzI5OWUz/Ny1lMmFjLTExZWMt/YjlhZC0wZWFlZjM3/NTlmNWYvaXBmcy1s/b2dvLWljb24tYi5w/bmc" alt="Ipfs" width="40" height="40">
+    <img src="https://imgs.search.brave.com/1BDlja5Cc1Wo_UAhFcTtL889Mp8rGqzGF9m2fBp-2vI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jcnlw/dG9jdXJyZW5jeWpv/YnMuY28vc3RhcnR1/cHMvYXNzZXRzL2xv/Z29zL3F1aWNrbm9k/ZS41OTgzMmFmZTVl/OGI0ZWM3OTZlZDVh/OTBmMjAyZTk1NDll/YzMwNmQwZjU4MDBh/ZjkyNDE1NDBjNjhm/NzQyYzU0LmpwZw" alt="Quicknode" width="40" height="40">
+    <img src="https://seeklogo.com/images/C/chain-link-logo-7324D3FE22-seeklogo.com.png" alt="chainlink" width="40" height="40">
+    <img src="https://logos-download.com/wp-content/uploads/2022/01/The_Graph_Logo-700x700.png" alt="graph" width="40" height="40">
  
 </p>
