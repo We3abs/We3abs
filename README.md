@@ -13,7 +13,7 @@ Empowering the Web3 ecosystem with economic insights and a passion for decentral
 
 I'm a blockchain researcher and advocate with a focus on empowering the Web3 ecosystem through economic insights and technological innovation. As a dedicated developer and future auditor, I'm driven by the endless possibilities of smart contracts, decentralized applications, and blockchain technology.
 
-- 🌱 Currently exploring: **Solidity, Hardhat, and Cairo Foundry**
+- 🌱 Currently exploring: **Solidity, Hardhat, Truffle, Ganache, Cairo Foundry**
 - 💬 Let's discuss: **DeFi, NFTs, DAOs, DEXs, and Smart Contracts**
 - 📫 Reach out to me: [milkywaygalaxy528@proton.me](mailto:milkywaygalaxy528@proton.me)
 
@@ -36,6 +36,10 @@ You can connect with me via email at [milkywaygalaxy528@proton.me](mailto:milkyw
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40">
+    <img src="https://truffleframework.com/img/truffle-logo-dark.svg" alt="Truffle" width="40" height="40">
+    <img src="https://www.trufflesuite.com/img/ganache-logo-dark.svg" alt="Ganache" width="40" height="40">
+    <img src="https://foundrydao.com/images/foundry_logo_color.png" alt="Foundry" width="40" height="40">
+    <img src="https://hardhat.org/logo.png" alt="Hardhat" width="40" height="40">
     <!-- Add more icons for languages and tools -->
 </p>
 
