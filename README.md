@@ -13,7 +13,7 @@ Passionate about blockchain technology, I'm on a journey to become an auditor, e
 
 I'm a blockchain researcher and advocate with a focus on empowering the Web3 ecosystem through economic insights and technological innovation. My dedication to the world of blockchain fuels my pursuit of becoming an auditor, harnessing the power of code to drive positive change.
 
-- 🌱 Currently exploring: **Foundry**
+- 🌱 Currently exploring: **Cairo**
 - 💬 Let's discuss: **DeFi, NFTs, DAOs, DEXs, and Smart Contracts**
 - 📫 Reach out to me: [milkywaygalaxy528@proton.me](mailto:milkywaygalaxy528@proton.me)
 
