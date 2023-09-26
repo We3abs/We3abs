@@ -33,10 +33,13 @@ I'm a blockchain researcher and advocate with a focus on empowering the Web3 eco
 - **Decentralized Finance NFT Certificate**
   - *University of Nicosia, Cyprus*
 
+- **Ethereum Developer Degree**
+  - *LearnWeb3Dao.io*
+  
 ## Connect with Me
 
 - 📫 Reach out to me: [milkywaygalaxy528@proton.me](mailto:milkywaygalaxy528@proton.me)
-- 
+  
 
 
 <!-- Add your social media links here -->
