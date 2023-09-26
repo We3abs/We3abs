@@ -33,8 +33,9 @@ I'm a blockchain researcher and advocate with a focus on empowering the Web3 eco
 - **Decentralized Finance NFT Certificate**
   - *University of Nicosia, Cyprus*
 
-- **Ethereum Developer Degree**
+- **Ethereum Developer Degree NFT**
   - *LearnWeb3Dao.io*
+  - *Alchemy University*
   
 ## Connect with Me
 
