@@ -21,7 +21,7 @@ I'm a blockchain researcher and advocate with a focus on empowering the Web3 eco
 ---
 ## Education and Certifications
 
-- **Bachelor in Economics**
+- **Bachelor in Economic Science**
   - *University of Piraeus, Greece*
 
 - **Blockchain Developer Certificate and Decentralized Finance**
