@@ -21,19 +21,19 @@ I'm a blockchain researcher and advocate with a focus on empowering the Web3 eco
 ---
 ## Education and Certifications
 
-- **Bachelor in Economic Science**
+- **Bachelor in Economic Science Developer 🎓**
   - *University of Piraeus, Greece*
 
-- **Blockchain Developer Certificate and Decentralized Finance**
+- **Blockchain Developer Certificate and Decentralized Finance  🌐**
   - *National and Kapodistrian University of Athens*
 
 - **Introduction to Digital Currencies**
   - *University of Nicosia, Cyprus*
 
-- **Decentralized Finance NFT Certificate**
+- **Decentralized Finance NFT Certificate  🌐**
   - *University of Nicosia, Cyprus*
 
-- **Ethereum Developer Degree NFT**
+- **Ethereum Developer Degree NFT  🌐**
   - *LearnWeb3Dao.io*
   - *Alchemy University*
   
