@@ -4,7 +4,7 @@
 ---
 # Greetings traveler, I'm Oxch
 
-**Blockchain Enthusiast | WEB3 Developer | DEFI Advocate | Aspiring Auditor**
+**Blockchain Enthusiast | WEB3 Developer | DEFI Advocate | Aspiring Security Researcher**
 
 Passionate about blockchain technology, I'm on a journey to become an auditor, ensuring the security and reliability of smart contracts and decentralized systems.
 
