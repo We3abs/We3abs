@@ -75,8 +75,12 @@ I'm a blockchain researcher and advocate with a focus on empowering the Web3 eco
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40">
     <img src="https://imgs.search.brave.com/4C3GZxN3oiIVJ7nK-JJcITOSkPFEV5HGcXAa0OVYfVQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/c29sb2Rldi5jb20v/ZmlsZS85NzI5OWUz/Ny1lMmFjLTExZWMt/YjlhZC0wZWFlZjM3/NTlmNWYvaXBmcy1s/b2dvLWljb24tYi5w/bmc" alt="Ipfs" width="40" height="40">
-    <img src="https://imgs.search.brave.com/1BDlja5Cc1Wo_UAhFcTtL889Mp8rGqzGF9m2fBp-2vI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jcnlw/dG9jdXJyZW5jeWpv/YnMuY28vc3RhcnR1/cHMvYXNzZXRzL2xv/Z29zL3F1aWNrbm9k/ZS41OTgzMmFmZTVl/OGI0ZWM3OTZlZDVh/OTBmMjAyZTk1NDll/YzMwNmQwZjU4MDBh/ZjkyNDE1NDBjNjhm/NzQyYzU0LmpwZw" alt="Quicknode" width="40" height="40">
-    <img src="https://seeklogo.com/images/C/chain-link-logo-7324D3FE22-seeklogo.com.png" alt="chainlink" width="40" height="40">
-    <img src="https://logos-download.com/wp-content/uploads/2022/01/The_Graph_Logo-700x700.png" alt="graph" width="40" height="40">
+  <img src="https://imgs.search.brave.com/i6D7ESXIPaXW7wq-oj93xFnmzK_TvbNMvG_lik8RKwQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9kb2Nz/LmNlcnRvcmEuY29t/L3Byb2plY3RzL3R1/dG9yaWFscy9lbi9s/YXRlc3QvX3N0YXRp/Yy9sb2dvLnN2Zw.svg">
+  <img src="https://raw.githubusercontent.com/crytic/slither/master/logo.png" alt="slither" width=:40" height="40">
+  <img src="https://logos-download.com/wp-content/uploads/2022/01/The_Graph_Logo-700x700.png" alt="graph" width="40" height="40">
+  <img src="https://imgs.search.brave.com/c54ZwYLivx_Le7rUy9XfvAXS_5WnGaFTmZjoM41LI8o/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/djIvMSpFckE2Ty16/RWFMV2g0WWZoZUZl/dmxBLmpwZWc" alt="lol" width="40" height="40">
+  <img src="https://imgs.search.brave.com/t_6SExy6XHoX115JV45K3D9xkj1GPdQnhthhlDopVCc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/YWxjaGVteS5jb20v/X25leHQvaW1hZ2U_/dXJsPWh0dHBzOi8v/cmVzLmNsb3VkaW5h/cnkuY29tL2FsY2hl/bXktd2Vic2l0ZS9p/bWFnZS91cGxvYWQv/djE2OTQ2NzU2NTIv/ZGFwcC1zdG9yZS9k/YXBwLWxvZ29zL0h1/ZmYuanBnJnc9NjQw/JnE9NzU" alt="40" width="40" height="40">
+ 
+
  
 </p>
