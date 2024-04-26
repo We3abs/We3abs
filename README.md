@@ -36,13 +36,16 @@ I'm a blockchain researcher and advocate with a focus on empowering the Web3 eco
 
 - **Ethereum Developer Degree NFT  🌐**
   - *LearnWeb3Dao.io*
-  - *Cyfrin Updraft Security and Auditing* 
+  - *Security & Auditing Cyfrin Updraft*
+  - *Assembly & Formal Verification Cyfrin Updraft*
   - *Basic Blockchain Taining by ConSensys Academy*
+  - *CryptoZombies*
+  - *Secureum*
   - *SpaceDoggo certificate by Learnoverse*
   - *Intro to Blockchain by Dapp World*
   - *Intro to Solidity by Dapp World*
   - *NFT Fundamendals by Dapp World*
-  - *CryptoZombies*
+    
 - **Web3 Fundamentals**
    - *Patika dev*
 - **Blockchain Developer Solidity**
