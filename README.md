@@ -50,8 +50,8 @@ I'm a blockchain researcher and advocate with a focus on empowering the Web3 eco
    - *Patika dev*
 - **Blockchain Developer Solidity**
   - *Udemy by Patrick Collins* 🐸
-- **Bitcoin Developers 1**🐐
-  - *saylor.org*
+- **Bitcoin Developers 1**
+  - *saylor.org*🐐
 
   
   
