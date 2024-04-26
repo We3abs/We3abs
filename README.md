@@ -16,26 +16,41 @@ I started my journey in the world of blockchain and cryptocurrencies a few years
 
 I'm a blockchain researcher and advocate with a focus on empowering the Web3 ecosystem through economic insights and technological innovation. My dedication to the world of blockchain fuels my pursuit of becoming an auditor, harnessing the power of code to drive positive change.
 
-- 🌱 Currently exploring: **Zk Proofs**
-- 💬 Let's discuss: **Security**
+- 🌱 Currently exploring: **Formal Verification**
+- 💬 Let's discuss: **Security and Blockchain**
 ---
 ## Education and Certifications
 
 - **Bachelor in Economic Science 🎓**
   - *University of Piraeus, Greece*
 
-- **Blockchain Developer Certificate and Decentralized Finance  🌐**
+- **Blockchain Developer Certificate and Decentralized Finance**
   - *National and Kapodistrian University of Athens*
-
-- **Introduction to Digital Currencies**
-  - *University of Nicosia, Cyprus*
 
 - **Decentralized Finance NFT Certificate  🌐**
   - *University of Nicosia, Cyprus*
+ 
+- **Introduction to Digital Currencies**
+  - *University of Nicosia, Cyprus*
+
 
 - **Ethereum Developer Degree NFT  🌐**
   - *LearnWeb3Dao.io*
-  - *Alchemy University*
+  - *Cyfrin Updraft Security and Auditing* 
+  - *Basic Blockchain Taining by ConSensys Academy*
+  - *SpaceDoggo certificate by Learnoverse*
+  - *Intro to Blockchain by Dapp World*
+  - *Intro to Solidity by Dapp World*
+  - *NFT Fundamendals by Dapp World*
+  - *CryptoZombies*
+- **Web3 Fundamentals**
+   - *Patika dev*
+- **Blockchain Developer Solidity**
+  - *Udemy by Patrick Collins* 🐸
+- **Bitcoin Developers 1**🐐
+  - *saylor.org*
+
+  
   
 ## Connect with Me
 
