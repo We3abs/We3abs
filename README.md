@@ -33,6 +33,12 @@ I'm a blockchain researcher and advocate with a focus on empowering the Web3 eco
 - **Introduction to Digital Currencies**
   - *University of Nicosia, Cyprus*
 
+- **Introduction of Blockhain in Financial Services**
+   - *University of Patras , Greece* 
+
+- **Mastering Web3** 
+    - *University of Nicosia , Cyprus*
+
 
 - **Ethereum Developer Degree NFT  🌐**
   - *LearnWeb3Dao.io*   
