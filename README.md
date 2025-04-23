@@ -16,7 +16,7 @@ I started my journey in the world of blockchain and cryptocurrencies a few years
 
 I'm a blockchain researcher and advocate with a focus on empowering the Web3 ecosystem through economic insights and technological innovation. My dedication to the world of blockchain fuels my pursuit of becoming an auditor, harnessing the power of code to drive positive change.
 
-- 🌱 Currently exploring: **Formal Verification**
+- 🌱 Currently exploring: **Starknet Ecosystem**
 - 💬 Let's discuss: **Security and Blockchain**
 ---
 ## Education and Certifications
